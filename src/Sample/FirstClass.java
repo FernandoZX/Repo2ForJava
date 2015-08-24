@@ -9,7 +9,6 @@ package Sample;
  *
  * @author fernando
  */
-public class SampleClass {
-    private String Message="HelloWorld";
-    private int data=100;
+public class FirstClass {
+    
 }
